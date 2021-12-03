@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['false']
 global.channelYT = ['false'] 
-global.owner = ['17155448800']// Put your number here
-global.mods = ['17155448800', '6288227606701'] // Want some help?
-global.partner = ['628978319619', '6281111111111', '0'] // Want some help?
+global.owner = ['6283805279906']// Put your number here
+global.mods = ['6283805279906', '0'] // Want some help?
+global.partner = ['6283161968485', '6281111111111', '0'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -34,8 +34,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'ikky'
-global.author = 'ikkygans'
+global.packname = '❤️'
+global.author = 'Ismail Kurama'
 
 global.multiplier = 69 // The higher, The harder levelup
 
